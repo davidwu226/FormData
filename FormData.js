@@ -12,7 +12,7 @@
 
   var EventEmitter = require('events').EventEmitter
     , forEachAsync = require('foreachasync').forEachAsync
-    , File = require('File')
+    , File = require('@davidwu226/file')
     , FileReader = require('filereader')
     ;
 
