@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"@davidwu226/file@^0.10.2":
-  version "0.10.2"
-  resolved "https://registry.yarnpkg.com/@davidwu226/file/-/file-0.10.2.tgz#e153b899dfaa9bd6c1381ce349b2aa7ea583b9bf"
+"@davidwu226/file@^0.11.0":
+  version "0.11.0"
+  resolved "https://registry.yarnpkg.com/@davidwu226/file/-/file-0.11.0.tgz#d785eb5288f86d3e75b3cbd183ce5836534382ef"
   dependencies:
     mime "^1.2.11"
 
